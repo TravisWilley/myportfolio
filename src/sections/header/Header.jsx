@@ -7,16 +7,17 @@ const Header = () => {
     <header id="header">
       <div className="container header__container">
         <div className="header__profile">
-          <img src={HeaderImage} alt="Header Portrait" />
+          <img src={HeaderImage} alt="Header Portait" />
         </div>
         <h3>Travis Willey</h3>
         <p>
-          You are a click away from building your dream website. Send me details
-          of your prospective project today!
+          You are a click away from building your dream website or web app. Send
+          me the details of your project for a modern, mobile responsive, highly
+          performant website today!
         </p>
         <div className="header__cta">
-          <a href="#container" className="btn primary">
-            Let's Talk!
+          <a href="#contact" className="btn primary">
+            Let's Talk
           </a>
           <a href="#portfolio" className="btn light">
             My Work
