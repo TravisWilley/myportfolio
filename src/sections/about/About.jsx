@@ -26,7 +26,7 @@ const About = () => {
             ))}
           </div>
           <p>
-            Building projects my clients love have always been my passion.
+            Building projects my clients love has always been my passion.
             Studying the Web Development industry for over a year i am very
             motivated and I'm always motivated to do more!
           </p>
