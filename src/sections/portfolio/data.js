@@ -29,11 +29,11 @@ const data = [
   },
   {
     id: 3,
-    category: 'frontend',
+    category: 'shopify',
     image: Image3,
-    title: 'Project Title Three (Frontend)',
+    title: 'Project Title Three (Shopify)',
     desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!',
-    demo: 'http://egatortutorials.com',
+    demo: 'https://fashionzapusa.myshopify.com/?_ab=0&_fd=0&_sc=1?preview_theme_id=143609528602',
     github: 'https://github.com/egattor',
   },
   /*{
