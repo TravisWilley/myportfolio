@@ -9,6 +9,7 @@ import Image8 from '../../assets/project8.jpg';
 import Image9 from '../../assets/project9.jpg';
 
 const data = [
+  /*
   {
     id: 1,
     category: 'uiux',
@@ -27,13 +28,14 @@ const data = [
     demo: 'http://egatortutorials.com',
     github: 'https://github.com/TravisWilley',
   },
+  */
   {
     id: 3,
     category: 'shopify',
     image: Image3,
     title: 'FashionZapUSA',
     desc: 'Clothing store based in the USA',
-    demo: 'https://fashionzapusa.myshopify.com/?_ab=0&_fd=0&_sc=1?preview_theme_id=143609528602',
+    demo: 'https://fashionzapusa.myshopify.com/',
     github: 'https://github.com/TravisWilley',
   },
   /*{
@@ -89,7 +91,16 @@ const data = [
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
-    }*/
+    }
+    */
+  {
+    id: 10,
+    category: 'wordpress',
+    image: Image3,
+    title: 'AAPIC',
+    desc: 'AAPIC Northbay',
+    demo: 'https://aapicnorthbay.org',
+  },
 ];
 
 export default data;
