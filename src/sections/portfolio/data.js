@@ -1,12 +1,13 @@
 import Image1 from '../../assets/project1.jpg';
-import Image2 from '../../assets/project2.jpg';
-import Image3 from '../../assets/project3.jpg';
+import FashionZap from '../../assets/fashionZap.png';
+import AAPIC from '../../assets/aapic.png';
 import Image4 from '../../assets/project4.jpg';
 import Image5 from '../../assets/project5.jpg';
 import Image6 from '../../assets/project6.jpg';
 import Image7 from '../../assets/project7.jpg';
 import Image8 from '../../assets/project8.jpg';
 import Image9 from '../../assets/project9.jpg';
+import { Pagination } from 'swiper';
 
 const data = [
   /*
@@ -32,7 +33,7 @@ const data = [
   {
     id: 3,
     category: 'shopify',
-    image: Image3,
+    image: FashionZap,
     title: 'FashionZapUSA',
     desc: 'Clothing store based in the USA',
     demo: 'https://fashionzapusa.myshopify.com/',
@@ -96,7 +97,7 @@ const data = [
   {
     id: 10,
     category: 'wordpress',
-    image: Image3,
+    image: AAPIC,
     title: 'AAPIC',
     desc: 'AAPIC Northbay',
     demo: 'https://aapicnorthbay.org',
