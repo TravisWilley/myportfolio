@@ -1,6 +1,7 @@
 import Image1 from '../../assets/project1.jpg';
 import FashionZap from '../../assets/fashionZap.png';
 import AAPIC from '../../assets/aapic.png';
+import Pitch from '../../assets/pitch.png';
 import Image4 from '../../assets/project4.jpg';
 import Image5 from '../../assets/project5.jpg';
 import Image6 from '../../assets/project6.jpg';
@@ -39,15 +40,16 @@ const data = [
     demo: 'https://fashionzapusa.myshopify.com/',
     github: 'https://github.com/TravisWilley',
   },
-  /*{
-        id: 4,
-        category: 'uiux',
-        image: Image4,
-        title: "Project Title Four (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
-    },
+  {
+    id: 4,
+    category: 'Javascript',
+    image: Pitch,
+    title: 'Pitch Counter App',
+    desc: 'A Pitch Counter app that keeps track of pitches per inning.',
+    demo: 'https://app.netlify.com/sites/pitch-counter/settings/general',
+    github: 'https://github.com/TravisWilley',
+  },
+  /*
     {
         id: 5,
         category: 'uiux',
