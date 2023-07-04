@@ -42,11 +42,11 @@ const data = [
   },
   {
     id: 4,
-    category: 'Javascript',
+    category: 'Front-end',
     image: Pitch,
     title: 'Pitch Counter App',
     desc: 'A Pitch Counter app that keeps track of pitches per inning.',
-    demo: 'https://app.netlify.com/sites/pitch-counter/settings/general',
+    demo: 'https://pitch-counter.netlify.app/',
     github: 'https://github.com/TravisWilley',
   },
   /*
@@ -103,6 +103,7 @@ const data = [
     title: 'AAPIC',
     desc: 'AAPIC Northbay',
     demo: 'https://aapicnorthbay.org',
+    github: 'https://github.com/TravisWilley',
   },
 ];
 
