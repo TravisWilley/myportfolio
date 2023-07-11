@@ -1,8 +1,8 @@
 import Image1 from '../../assets/project1.jpg';
-import FashionZap from '../../assets/fashionZap.png';
+import FashionZap from '../../assets/FashionZap.png';
 import AAPIC from '../../assets/aapic.png';
 import Pitch from '../../assets/pitch.png';
-import Image4 from '../../assets/project4.jpg';
+import PCBot from '../../assets/PCBot.png';
 import Image5 from '../../assets/project5.jpg';
 import Image6 from '../../assets/project6.jpg';
 import Image7 from '../../assets/project7.jpg';
@@ -36,7 +36,7 @@ const data = [
     category: 'shopify',
     image: FashionZap,
     title: 'FashionZapUSA',
-    desc: 'Clothing store based in the USA',
+    desc: 'Clothing store based in the USA made with Shopify',
     demo: 'https://fashionzapusa.myshopify.com/',
     github: 'https://github.com/TravisWilley',
   },
@@ -49,16 +49,17 @@ const data = [
     demo: 'https://pitch-counter.netlify.app/',
     github: 'https://github.com/TravisWilley',
   },
+
+  {
+    id: 5,
+    category: 'shopify',
+    image: PCBot,
+    title: 'PCBot',
+    desc: 'PC store',
+    demo: 'https://pcbot.myshopify.com/',
+    github: 'https://github.com/egattor',
+  },
   /*
-    {
-        id: 5,
-        category: 'uiux',
-        image: Image5,
-        title: "Project Title Five (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
-    },
     {
         id: 6,
         category: 'frontend',
@@ -101,7 +102,7 @@ const data = [
     category: 'wordpress',
     image: AAPIC,
     title: 'AAPIC',
-    desc: 'AAPIC Northbay',
+    desc: 'AAPIC Northbay website made with Wordpress',
     demo: 'https://aapicnorthbay.org',
     github: 'https://github.com/TravisWilley',
   },
