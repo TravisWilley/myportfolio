@@ -1,12 +1,19 @@
 {
-  "name": "portfolio",
+  "name": "myportfolio",
   "version": "1.0.0",
-  "description": "portfolio",
+  "description": "Portfolio",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "hey"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravisWilley/myportfolio.git"
+  },
+  "author": "Travis Willey",
+  "bugs": {
+    "url": "https://github.com/TravisWilley/myportfolio/issues"
+  },
+  "homepage": "https://github.com/TravisWilley/myportfolio#readme"
 }
