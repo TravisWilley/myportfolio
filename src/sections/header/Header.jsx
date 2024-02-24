@@ -16,6 +16,7 @@ const Header = () => {
           <img src={HeaderImage} alt="Header Portait" />
         </div>
         <h3 data-aos="fade-up">Travis Willey</h3>
+        <h5 data-aos="fade-up">Shopify Expert</h5>
         <p data-aos="fade-up">
           You are a click away from building your dream website or web app. Send
           me the details of your project for a modern, mobile responsive, highly

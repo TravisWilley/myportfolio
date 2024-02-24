@@ -18,9 +18,9 @@ const data = [
   {
     id: 2,
     quote:
-      'Good job, Travis! Right on time! I really like how the project turned out, and my customers like it as well. It was fun collaborating with you.',
+      'Travis did a amazing job with my website ! He helped me completely revamp it and I highly recommend him to anyone looking for a web developer!',
     avatar: Avatar2,
-    name: 'Ernest Achiever',
+    name: 'Sam K',
     profession: 'Web Developer',
   },
   {

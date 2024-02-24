@@ -9,6 +9,7 @@ import Image7 from '../../assets/project7.jpg';
 import Image8 from '../../assets/project8.jpg';
 import Image9 from '../../assets/project9.jpg';
 import { Pagination } from 'swiper';
+import PhotoPlace from '../../assets/PhotoPlace.png';
 
 const data = [
   /*
@@ -21,16 +22,17 @@ const data = [
     demo: 'http://egatortutorials.com',
     github: 'https://github.com/TravisWilley',
   },
+  */
   {
     id: 2,
-    category: 'frontend',
-    image: Image2,
-    title: 'Project Title Two (Frontend)',
-    desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!',
-    demo: 'http://egatortutorials.com',
+    category: 'shopify',
+    image: PhotoPlace,
+    title: 'PhotoPlace',
+    desc: 'Photography store',
+    demo: 'https://tphotoplace.com/',
     github: 'https://github.com/TravisWilley',
   },
-  */
+
   {
     id: 3,
     category: 'shopify',
@@ -55,9 +57,9 @@ const data = [
     category: 'shopify',
     image: PCBot,
     title: 'PCBot',
-    desc: 'PC store',
+    desc: 'Computer parts store. Computer repair and builds.',
     demo: 'https://pcbot.myshopify.com/',
-    github: 'https://github.com/egattor',
+    github: 'https://github.com/TravisWilley',
   },
   /*
     {
@@ -67,7 +69,7 @@ const data = [
         title: "Project Title Six (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        github: 'https://github.com/TravisWilley'
     },
     {
         id: 7,
@@ -76,7 +78,7 @@ const data = [
         title: "Project Title Seven (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        github: 'https://github.com/TravisWilley'
     },
     {
         id: 8,
@@ -85,7 +87,7 @@ const data = [
         title: "Project Title Eight (Backend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        github: 'https://github.com/TravisWilley'
     },
     {
         id: 9,
@@ -94,7 +96,7 @@ const data = [
         title: "Project Title Nine (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        github: 'https://github.com/TravisWilley'
     }
     */
   {
